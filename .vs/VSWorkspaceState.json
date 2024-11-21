@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\api",
+    "\\src\\app\\components",
+    "\\src\\app\\fonts",
+    "\\src\\app\\pricing",
+    "\\src\\app\\success"
+  ],
+  "SelectedNode": "\\src\\app\\pricing\\page.jsx",
+  "PreviewInSolutionExplorer": false
+}
